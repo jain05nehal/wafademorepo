@@ -1,0 +1,9 @@
+{
+	"name": "GITBASEDREPO",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aae5babd-fa89-4788-b254-ae020a9a6179",
+		"tenantId": "f5b4d94a-7506-4351-89aa-d721b966e780"
+	}
+}
